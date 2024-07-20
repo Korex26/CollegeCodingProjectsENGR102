@@ -1,3 +1,8 @@
+ABOUT
+- This repository contains an overview of my coding projects from my ENGR102 coding focused class at Texas A&M.
+- Each folder contains a prompt file with all the project prompts and their respective file(s).
+- View the README for specific background information regarding the class.
+
 CLASS BACKGROUND INFORMATION
 - ENGR 102 Engineering Lab I - Computation.
 - Credits 2. 1 Lecture Hour. 3 Lab Hours.
